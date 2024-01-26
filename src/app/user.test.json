@@ -1,0 +1,39 @@
+{
+  "id": "user_2bSXQPdqqOHKGzOTKWFmTWw5YNo",
+  "passwordEnabled": true,
+  "totpEnabled": false,
+  "backupCodeEnabled": false,
+  "twoFactorEnabled": false,
+  "banned": false,
+  "createdAt": 1706209436723,
+  "updatedAt": 1706268472615,
+  "imageUrl": "https://img.clerk.com/eyJ0eXBlIjoiZGVmYXVsdCIsImlpZCI6Imluc18yYlJ5R2pVaHJiakQzRUxYeTlyRW1sV2tpYXoiLCJyaWQiOiJ1c2VyXzJiU1hRUGRxcU9IS0d6T1RLV0ZtVFd3NVlObyIsImluaXRpYWxzIjoiTUkifQ",
+  "hasImage": false,
+  "gender": "",
+  "birthday": "",
+  "primaryEmailAddressId": "idn_2bSXNGNgROpjRZoF1SXzBAN326l",
+  "primaryPhoneNumberId": null,
+  "primaryWeb3WalletId": null,
+  "lastSignInAt": 1706268472552,
+  "externalId": null,
+  "username": "micael",
+  "firstName": "Micael",
+  "lastName": "Inácio",
+  "publicMetadata": {},
+  "privateMetadata": {},
+  "unsafeMetadata": {},
+  "emailAddresses": [
+    {
+      "id": "idn_2bSXNGNgROpjRZoF1SXzBAN326l",
+      "emailAddress": "micaelmiranda124@gmail.com",
+      "verification": [
+        "_Verification"
+      ],
+      "linkedTo": []
+    }
+  ],
+  "phoneNumbers": [],
+  "web3Wallets": [],
+  "externalAccounts": [],
+  "createOrganizationEnabled": true
+}

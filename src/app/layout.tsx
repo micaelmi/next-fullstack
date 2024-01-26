@@ -17,7 +17,12 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <ClerkProvider localization={ptBR}>
+    <ClerkProvider
+      appearance={{
+        variables: { colorPrimary: "#FF6A00" },
+      }}
+      localization={ptBR}
+    >
       <html lang="pt-BR">
         <body className={inter.className}>{children}</body>
       </html>
